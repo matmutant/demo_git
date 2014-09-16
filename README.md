@@ -1,5 +1,5 @@
 demo_git
 ========
 
-frist test on git
+first test on git
 first push
